@@ -14,7 +14,7 @@
     "jest": "^27.5.1",
     "jest-image-snapshot": "^4.5.1",
     "js-yaml": "^4.1.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "puppeteer-mass-screenshots": "^1.0.15",
     "puppeteer-video-recorder": "^1.0.5",
     "sha1": "^1.1.1",

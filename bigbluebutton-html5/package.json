@@ -50,7 +50,7 @@
     "langmap": "0.0.16",
     "lodash": "^4.17.21",
     "makeup-screenreader-trap": "0.0.5",
-    "meteor-node-stubs": "^1.2.1",
+    "meteor-node-stubs": "^1.2.24",
     "postcss-nested": "^5.0.6",
     "probe-image-size": "^4.1.1",
     "prom-client": "^13.2.0",

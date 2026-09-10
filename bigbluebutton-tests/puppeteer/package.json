@@ -13,7 +13,7 @@
     "fs-extra": "^10.0.1",
     "jest": "^27.5.1",
     "jest-image-snapshot": "^4.5.1",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "moment": "^2.29.1",
     "puppeteer-mass-screenshots": "^1.0.15",
     "puppeteer-video-recorder": "^1.0.5",

@@ -67,7 +67,7 @@ GEM
       unicode-display_width (>= 1.4.0, < 1.7)
     ruby-progressbar (1.11.0)
     ruby2_keywords (0.0.5)
-    rubyzip (2.3.2)
+    rubyzip (3.4.0)
     sinatra (2.2.0)
       mustermann (~> 1.0)
       rack (~> 2.2)
@@ -103,7 +103,7 @@ DEPENDENCIES
   redis (~> 4.1)
   resque (~> 2.0.0)
   rubocop (~> 0.79.0)
-  rubyzip (~> 2.0)
+  rubyzip (~> 3.4)
 
 BUNDLED WITH
    2.1.4

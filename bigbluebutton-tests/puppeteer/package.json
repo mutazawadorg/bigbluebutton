@@ -7,11 +7,11 @@
   },
   "dependencies": {
     "axios": "^0.26.1",
-    "babel-jest": "^27.5.1",
+    "babel-jest": "^30.5.2",
     "child_process": "^1.0.2",
     "dotenv": "^16.0.0",
     "fs-extra": "^10.0.1",
-    "jest": "^27.5.1",
+    "jest": "^30.5.2",
     "jest-image-snapshot": "^4.5.1",
     "js-yaml": "^4.1.0",
     "moment": "^2.29.1",
